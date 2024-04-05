@@ -7,6 +7,8 @@
 *.avi
 *.mov
 *.html
+*.pt
+*.csv
 # Ignore folders
 /dataset/
 /runs/
