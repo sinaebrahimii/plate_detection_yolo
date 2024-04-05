@@ -1,0 +1,6 @@
+train: D:\Code\YOLO\Persian plates\dataset\train
+val: D:\Code\YOLO\Persian plates\dataset\valid
+test: D:\Code\YOLO\Persian plates\dataset\test
+
+nc: 1
+names: ["IR_License_Plate"]

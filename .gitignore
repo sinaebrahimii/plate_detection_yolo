@@ -1,0 +1,13 @@
+# Ignore all images and videos in the root directory
+*.jpg
+*.jpeg
+*.png
+*.gif
+*.mp4
+*.avi
+*.mov
+*.html
+# Ignore folders
+/dataset/
+/runs/
+/img/
